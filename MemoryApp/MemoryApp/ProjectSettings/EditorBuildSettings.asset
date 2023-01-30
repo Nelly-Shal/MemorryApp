@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8058005fa311fc9488e272f8dad48ba7
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_Selector.unity
+    guid: c9be478610db05c42bfccd11380b8934
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_1.unity
+    guid: 345e2ab9e61c2a24ab45a488c32bf133
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_2.unity
+    guid: a592fea0426919349a703ce947a8073b
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_3.unity
+    guid: e889c82a24792d440a3a96628664adee
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_4.unity
+    guid: da4ed5ba704a580459b85001b4ac4a16
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_5.unity
+    guid: c0271bd2e56ff1e4eaefdaa8367128d8
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_6.unity
+    guid: 75a0cf1ee2863db45838e5d17a127c12
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_7.unity
+    guid: e2e3b6fc4e1663b4d8d057bab32bc83e
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_8.unity
+    guid: 21275dfe33b62a245a7bea55f7c31ee2
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_9.unity
+    guid: 1ec64c24b563b52459307bf79526938a
+  - enabled: 1
+    path: Assets/Scenes/Cards_Level_10.unity
+    guid: 29cd0452592bb1e489098a7c2cc2628c
+  - enabled: 1
+    path: Assets/Scenes/LongM_Words.unity
+    guid: 796a9cae9549ea147a59188b50a74da4
+  - enabled: 1
+    path: Assets/Scenes/Signals.unity
+    guid: 7c313e4452008c14a9e5a0c6650c2011
+  - enabled: 1
+    path: Assets/Scenes/MatchOrNot.unity
+    guid: 67ad97ade884ae64da877884cc750a14
+  - enabled: 1
+    path: Assets/Scenes/LongM_Cards.unity
+    guid: a01fe668944dc8f47ab3b060f9459668
+  - enabled: 1
+    path: Assets/Scenes/MatchOrNot 1.unity
+    guid: 85e58d55ad05b8541aeca7c5e84598b2
+  m_configObjects: {}
